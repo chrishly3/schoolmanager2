@@ -10,7 +10,7 @@ public class ScmsApiApplication {
 
     public static void main(String[] args) {
 
-	    //≤‚ ‘
+	    //≤‚ ‘push
         SpringApplication.run(ScmsApiApplication.class, args);
     }
 
