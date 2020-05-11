@@ -9,6 +9,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ScmsApiApplication {
 
     public static void main(String[] args) {
+
+	    //≤‚ ‘
         SpringApplication.run(ScmsApiApplication.class, args);
     }
 
